@@ -4,13 +4,19 @@ This project demonstrates dynamic network slicing for enhanced Wi-Fi performance
 
 ## 📑 Table of Contents
 
-- [Project Overview](#project-overview)
-- [Project Structure](#project-structure)
-- [Objectives](#Objectives)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
+- [Group Details](#-group-details)
+- [Mentor](#mentor)
+- [Video Presentation](#video-presentation)
+- [🚀 Project Overview](#-project-overview)
+- [📂 Project Structure](#-project-structure)
+- [⛳ Objectives](#-objectives)
+- [✨ Features](#-features)
+- [⚙️ Technologies Used](#️-technologies-used)
+- [🔧 Installation](#-installation)
 - [Usage](#usage)
+- [RESULTS AND OBSERVATIONS](#results-and-observations)
+- [Future Work](#future-work)
+- [Acknowledgments](#acknowledgments)
 
 ---
 
